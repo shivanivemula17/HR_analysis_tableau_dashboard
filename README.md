@@ -64,9 +64,14 @@ I learned how to translate HR statistics into meaningful insights using <b>data 
 
 <hr>
 
+
 <h2>🧾 Author</h2>
 <p>
 👩‍💻 <b>Shivani Vemula</b><br>
 📍 Hyderabad, India <br>
 💼 Tableau | Data Visualization | Analytics
+</p>
+
+<p align="center">
+  <img src="Screenshot 2025-11-01 162328.png" alt="Electric Vehicle Dashboard Screenshot" width="800">
 </p>
