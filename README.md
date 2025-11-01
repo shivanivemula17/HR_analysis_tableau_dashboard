@@ -48,18 +48,6 @@ This dashboard helps HR professionals and management make data-driven decisions 
 
 <hr>
 
-<h2>📂 Repository Structure</h2>
-<pre>
-HR-Analysis-Dashboard/
-│
-├── data/                     # HR dataset files (CSV, Excel, etc.)
-├── images/                   # Screenshots of the dashboard
-├── HR_Analysis.twbx          # Tableau workbook file
-└── README.md                 # Project documentation
-</pre>
-
-<hr>
-
 <h2>🌐 Tableau Public Link</h2>
 <p>
 🔗 <a href="https://public.tableau.com/app/profile/shivani.vemula2719/viz/HRanalysisdashboard_17594977020540/Dashboard1" target="_blank">View the HR Analysis Dashboard on Tableau Public</a>  
