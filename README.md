@@ -50,7 +50,7 @@ This dashboard helps HR professionals and management make data-driven decisions 
 
 <h2>🌐 Tableau Public Link</h2>
 <p>
-🔗 <a href="https://public.tableau.com/app/profile/shivani.vemula2719/viz/HRanalysisdashboard_17594977020540/Dashboard1" target="_blank">View the HR Analysis Dashboard on Tableau Public</a>  
+🔗 <a href="https://public.tableau.com/app/profile/shivani.vemula2719/viz/HRanalysis_17619910962300/HRANALYSTICSDASHBOARD" target="_blank">View the HR Analysis Dashboard on Tableau Public</a>  
 <br>
 </p>
 
